@@ -4,8 +4,8 @@ Object detection and counting of tomatoes for further yield estimation by analyz
 1. Implemented R-CNN model for estimation of tomatoes in a given tomato farm. 
 2. The model is based on one of the state-of-the-art CNN-based object detection and classification.
 3. Proposed enhancements over original algorithm :
-  - Improved accuracy by selecting the hyper parameters from the epoch that has least loss during training
-  - Refined each bounding box using regression.
+    - Improved accuracy by selecting the hyper parameters from the epoch that has least loss during training
+    - Refined each bounding box using regression.
 
 Sample frame extracted from the video acquired:
 ![fieldimage](https://user-images.githubusercontent.com/60587239/81495671-feb50700-927f-11ea-8fab-0cd903c59247.jpg)
