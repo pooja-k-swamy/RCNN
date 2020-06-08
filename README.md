@@ -12,3 +12,4 @@ Sample frame extracted from the video acquired:
 
 Using labelImg, created the ground truth labels for training(takes a LOT of time):
 
+    
