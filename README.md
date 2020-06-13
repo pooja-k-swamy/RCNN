@@ -13,3 +13,5 @@ Sample frame extracted from the video acquired:
 Using labelImg, created the ground truth labels for training(takes a LOT of time):
 
     
+![labelimg](https://user-images.githubusercontent.com/60587239/84558704-c41d0f00-ad02-11ea-9a62-59b7cc587fc6.png)
+
